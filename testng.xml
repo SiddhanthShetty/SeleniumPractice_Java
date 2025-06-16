@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Default Suite">
+    <test name="Default Test">
+        <classes>
+            <!-- Add your test classes here, e.g. -->
+            <!-- <class name="your.package.YourTestClass"/> -->
+        </classes>
+    </test>
+</suite>
+
